@@ -1,6 +1,7 @@
 # Human_Resources
 Here contains the report for the Statistical Analysis on Human Resource Dataset 
-Coding was completed in Python
+
+Coding was completed in Python and will be uploaded soon. Please check back!
 
 2020 Human Resources Data Set 
 Latosha Sanchez & Yue Qin
