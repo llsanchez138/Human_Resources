@@ -35,7 +35,6 @@ To gain a brief overview of the variables in our prediction problem, we create a
 Qualitative Plot:
 To ensure the genders are comparable for further analysis, we gather the counts of each gender by grouping them. The counts of each gender present in the selected_info table are displayed below. The bar chart confirms what we see above in the aggregated table, the counts are similar for each gender. This allows us to continue with A/B testing in our analysis and subsequently sets us up for our test statistic.
 
-<img src= Desktop/Picture1.png />
 
 Hypothesis Testing 
 Null: In the population, the distribution of pay is the same between male and female employees. Any variation in the sample is due to chance.
